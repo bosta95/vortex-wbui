@@ -1,74 +1,644 @@
-{
-  "ServerName": "VORTEX ARK — CLUSTER PvP",
-  "ButtonTxt1": "Accueil",
-  "ButtonTxt2": "Serveur",
-  "ButtonTxt3": "Regles",
-  "ButtonTxt4": "Commandes",
-  "ButtonTxt5": "Boutique",
-  "LinkButtonTxt1": "Discord",
-  "LinkButtonTxt2": "Boutique Tebex",
-  "LinkButtonTxt3": "",
-  "LinkButtonTxt4": "",
-  "LinkButtonTxt5": "",
-  "LinkButton1": "https://discord.gg/PzCvFjjRv5",
-  "LinkButton2": "https://vortex-ark.tebex.store",
-  "Link1Button3": "",
-  "Link2Button3": "",
-  "Link3Button3": "",
-  "Link4Button3": "",
-  "Link1Button4": "",
-  "Link2Button4": "",
-  "Link3Button4": "",
-  "Link4Button4": "",
-  "Link1Button5": "",
-  "Link2Button5": "",
-  "Link3Button5": "",
-  "Link4Button5": "",
-  "Tab1Panelcount": 1,
-  "Tab2Panelcount": 2,
-  "Tab3Panelcount": 1,
-  "Tab4Panelcount": 2,
-  "Tab5Panelcount": 1,
-  "BackgroundTab1": 0,
-  "BackgroundTab2": 1,
-  "BackgroundTab3": 0,
-  "BackgroundTab4": 0,
-  "BackgroundTab5": 0,
-  "Background3Color": "255,95,0,0.35",
-  "FontColorButtons": "255,255,255",
-  "FontColorServerName": "255,95,0",
-  "FontColorTabTitles": "255,180,50",
-  "FontColorTabText": "240,240,240",
-  "UseSteamBrowserLink1": false,
-  "UseSteamBrowserLink2": false,
-  "Tab1Title1": "Bienvenue dans le Vortex",
-  "Tab1Title2": "",
-  "Tab1Title3": "",
-  "Tab2Title1": "Rates & Cluster",
-  "Tab2Title2": "Systeme ORP",
-  "Tab2Title3": "",
-  "Tab3Title1": "Reglement du cluster",
-  "Tab3Title2": "",
-  "Tab3Title3": "",
-  "Tab4Title1": "Commandes disponibles",
-  "Tab4Title2": "Bloque en combat / raid",
-  "Tab4Title3": "",
-  "Tab5Title1": "Boutique & Grades",
-  "Tab5Title2": "",
-  "Tab5Title3": "",
-  "Tab1Text1": "========================================\n         V O R T E X   A R K\n   Cluster PvP Francophone — No Wipe\n========================================\n\nBienvenue survivant.\n\nIci, pas de wipe : tu construis, tu progresses, tu raids.\nUn cluster rapide, equilibre et gere par une equipe active.\n\n--- NOS 6 MONDES CONNECTES ---\nThe Island  |  Ragnarok  |  Genesis 2\nExtinction  |  Aberration  |  Fjordur\n\nTransferts dinos, items et tribus actifs entre toutes les maps.\n\n--- ACCES RAPIDE ---\nF2  : ce menu (icone en bas a gauche)\nF1  : boutique in-game\nChat global/tribu : relie a tout le cluster\n\n--- LIENS ---\nDiscord : annonces, aide, suggestions\nBoutons en bas de cet ecran.\n\nBon jeu et bon raid.",
-  "Tab1Text2": "",
-  "Tab1Text3": "",
-  "Tab2Text1": "--- RATES PRINCIPAUX ---\nRecolte x25\nTame x50\nXP x15\nStacks x50\nNiveau max dinos : 150\n\n--- PVP ---\nGamma PvP autorise\n150 tourelles max par zone\nStats loot bridées (pas de cheat)\n\n--- CONFORT ---\nJour permanent (nuit desactivee)\nCryopods sans penalite\nElevage rapide + imprint accessible\n\nMemes regles sur les 6 maps du cluster.",
-  "Tab2Text2": "--- QU'EST-CE QUE L'ORP ? ---\nProtection de ta base quand personne de ta tribu n'est en ligne.\n\n--- COMMANDES ORP ---\n/setorp    : placer l'ORP de ta tribu\n/removeorp : retirer l'ORP\n/showorp   : voir la zone ORP\n/protection : temps de protection raid\n/raid      : statut raid en cours\n\n--- CONDITIONS ---\nMinimum 10 structures dans la zone\nPas d'ennemi a proximite\nActivation apres 30 sec hors-ligne\nORP detruit = tu dois le replacer\n\n--- EFFETS ---\nStructures : -50% degats recus\nTourelles ORP : +100% degats\nPendant un RAID : /setorp bloque",
-  "Tab2Text3": "",
-  "Tab3Text1": "=== 1. FAIR-PLAY (zero tolerance) ===\n\nINTERDIT :\n- Mesh / undermesh / glitch de map\n- Duplication, triche, scripts, exploits\n- Insultes graves, racisme, harcelement\n- Menaces IRL\n\nSanction : warn, ban temporaire ou permanent selon gravite.\n\n=== 2. PVP & RAIDS ===\n\nAUTORISE :\n- Raids offline (ORP protege les bases)\n- Destruction de structures et dinos\n- Alliances tactiques en raid\n\nINTERDIT :\n- Bloquer un spawn (cage, prison, grief spawn)\n- Abus ORP (fausse deco pour activer, bait)\n- Rebuild instant dans la zone ennemie en plein raid\n- Utiliser shop / TP / kits en combat\n\n=== 3. BASE & STRUCTURES ===\n\n- Respecte les limites tourelles (150/zone)\n- Pas de spam structures pour lag\n- Pas de blocking de ressources importantes (obelisques, grottes boss)\n\n=== 4. COMMUNAUTE ===\n\n- Respecte les joueurs et le staff\n- Signale les bugs sur Discord (pas d'exploit)\n- Les decisions admin sont finales\n- Le reglement peut evoluer : reste informe sur Discord\n\nUn cluster propre = des joueurs responsables.",
-  "Tab3Text2": "",
-  "Tab3Text3": "",
-  "Tab4Text1": "--- INTERFACE ---\nF2 : menu serveur (ceci)\nF1 : boutique visuelle\n\n--- BOUTIQUE (ArkShop) ---\n/shop      : ouvrir la boutique\n/kit       : lister les kits\n/buykit    : acheter un kit\n/points    : voir tes points\n/trade     : echanger des points\n/shophelp  : aide boutique\n/shopfind  : chercher un item\n\n--- ORP (Lethal ORP) ---\n/setorp /removeorp /showorp\n/protection /raid\n\n--- AUTRES ---\nChat global : relie tout le cluster\nChat tribu  : relie ta tribu sur toutes les maps\nSpyglass, Teleporters, Soul Traps : via les mods en jeu (pas de commande)",
-  "Tab4Text2": "--- EN COMBAT PVP (2 min) ---\nBloque automatiquement :\n/shop /kit /buykit /buy /sell /trade\n/stash /upload /download /suicide\nTeleporters (remote + structure)\nSoul Gun / Omni-tool S+\nTransmetteur ARK\n\n--- PENDANT UN RAID ---\nTout ce qui est au-dessus +\n/setorp /removeorp /showorp\n\nTu dois te battre, pas te teleporter ou te reequiper via shop.\n\n--- HORS COMBAT ---\nToutes les commandes ci-dessus sont accessibles.",
-  "Tab4Text3": "",
-  "Tab5Text1": "--- GAGNER DES POINTS ---\nTu recois des points automatiquement en jouant :\n\nJoueur    : 100 pts / 30 minutes\nVIP       : 200 pts / 30 minutes\nPremium   : 400 pts / 30 minutes\n\n--- BOUTIQUE IN-GAME ---\n/shop ou F1\nKits, dinos, ressources, items\n\n--- GRADES VIP & PREMIUM ---\nKits base exclusifs\nPlus de points passifs\nAvantages shop etendus\n\nAchat sur Tebex (bouton ci-dessous).\nLivraison automatique sur tout le cluster.\n\nMerci a tous ceux qui soutiennent VORTEX !",
-  "Tab5Text2": "",
-  "Tab5Text3": ""
-}
+<div class="vortex-jungle-page">
+  <div class="vortex-wrap">
+
+    <!-- HERO HEADER AVEC LES 2 DINOSAURES SUR LES CÔTÉS -->
+    <div class="vortex-hero-box">
+      <img src="https://imagedelivery.net/J903SH9YObde-XXkbrggNQ/bddbec06-0311-4962-5030-5b5f5b1dbd00/public" class="vortex-hero-dino dino-left-art" alt="Giga ARK">
+      
+      <div class="vortex-hero-center">
+        <div class="vortex-tag-pill">🌿 CLUSTER NO-WIPE • RATES X25 • PVP+ PRIMORDIAL</div>
+        <h1 class="vortex-main-heading">BOUTIQUE OFFICIELLE VORTEX</h1>
+        <p class="vortex-main-desc">
+          Soutenez le serveur et débloquez vos points boutique <b>(/shop)</b> et grades VIP synchronisés automatiquement sur l'ensemble de nos 6 serveurs.
+        </p>
+      </div>
+
+      <img src="https://imagedelivery.net/J903SH9YObde-XXkbrggNQ/c4b9060c-af61-45f5-61ea-2d620892d300/public" class="vortex-hero-dino dino-right-art" alt="Spino ARK">
+    </div>
+
+    <!-- SECTION 1 : POINTS BOUTIQUE -->
+    <div class="vortex-section-head">
+      <div class="vortex-sec-badge">BOUTIQUE EN JEU</div>
+      <h2>💎 Reliques & Points (/shop)</h2>
+      <p>Crédités en quelques secondes sur votre survivant via la commande <code>/shop</code></p>
+    </div>
+
+    <div class="vortex-grid-4">
+      
+      <!-- PACK 1 : EXPLORATEUR (2 500 POINTS) - LIEN ACTIF -->
+      <div class="vortex-jungle-card">
+        <div class="vortex-card-top">
+          <img src="https://imagedelivery.net/J903SH9YObde-XXkbrggNQ/ddb2bc2b-dc4a-43e8-13b8-676f12549e00/public" class="vortex-card-thumb" alt="Points Découverte">
+          <div class="vortex-name">Pack Explorateur</div>
+          <div class="vortex-price">4.99 €</div>
+        </div>
+        <ul class="vortex-list-features">
+          <li><b>2 500 Points</b> en jeu</li>
+          <li>Livraison automatique</li>
+          <li>Idéal pour débuter</li>
+          <li>Valable sur tout le cluster</li>
+        </ul>
+        <a href="/checkout/packages/add/7647140" target="_top" rel="noopener" class="vortex-btn-action">Commander</a>
+      </div>
+
+      <!-- PACK 2 : CHASSEUR -->
+      <div class="vortex-jungle-card popular-card">
+        <div class="vortex-floating-badge">🔥 Le Plus Choisi</div>
+        <div class="vortex-card-top">
+          <img src="https://imagedelivery.net/J903SH9YObde-XXkbrggNQ/ddb2bc2b-dc4a-43e8-13b8-676f12549e00/public" class="vortex-card-thumb" alt="Points Chasseur">
+          <div class="vortex-name">Pack Chasseur</div>
+          <div class="vortex-price">9.99 €</div>
+        </div>
+        <ul class="vortex-list-features">
+          <li><b>6 000 Points</b> <span class="vortex-bonus-tag">+1 000 OFFERTS</span></li>
+          <li>Livraison instantanée</li>
+          <li>Idéal premiers dinos 150</li>
+          <li>Valable sur tout le cluster</li>
+        </ul>
+        <a href="/checkout/packages/add/7647151" target="_top" rel="noopener" class="vortex-btn-action">Commander</a>
+      </div>
+
+      <!-- PACK 3 : PRÉDATEUR -->
+      <div class="vortex-jungle-card">
+        <div class="vortex-card-top">
+          <img src="https://imagedelivery.net/J903SH9YObde-XXkbrggNQ/ddb2bc2b-dc4a-43e8-13b8-676f12549e00/public" class="vortex-card-thumb" alt="Points Prédateur">
+          <div class="vortex-name">Pack Prédateur</div>
+          <div class="vortex-price">19.99 €</div>
+        </div>
+        <ul class="vortex-list-features">
+          <li><b>15 000 Points</b> <span class="vortex-bonus-tag">+5 000 OFFERTS</span></li>
+          <li>Livraison instantanée</li>
+          <li>Boost complet de tribu</li>
+          <li>Valable sur tout le cluster</li>
+        </ul>
+        <a href="/checkout/packages/add/7647152" target="_top" rel="noopener" class="vortex-btn-action">Commander</a>
+      </div>
+
+      <!-- PACK 4 : APEX TITAN -->
+      <div class="vortex-jungle-card popular-card">
+        <div class="vortex-floating-badge gold-badge">⭐ Trésor Suprême</div>
+        <div class="vortex-card-top">
+          <img src="https://imagedelivery.net/J903SH9YObde-XXkbrggNQ/ddb2bc2b-dc4a-43e8-13b8-676f12549e00/public" class="vortex-card-thumb" alt="Points Apex Titan">
+          <div class="vortex-name">Pack Apex Titan</div>
+          <div class="vortex-price">39.99 €</div>
+        </div>
+        <ul class="vortex-list-features">
+          <li><b>40 000 Points</b> <span class="vortex-bonus-tag">+10 000 OFFERTS</span></li>
+          <li>Plein de points maximal</li>
+          <li>Livraison immédiate</li>
+          <li>Valable sur tout le cluster</li>
+        </ul>
+        <a href="/checkout/packages/add/7647154" target="_top" rel="noopener" class="vortex-btn-action">Commander</a>
+      </div>
+
+    </div>
+
+    <!-- SECTION 2 : RANGS VIP -->
+    <div class="vortex-section-head" style="margin-top: 60px;">
+      <div class="vortex-sec-badge">STATUT HONORIFIQUE</div>
+      <h2>👑 Rangs VIP & Soutien (30 Jours)</h2>
+      <p>Profitez d'avantages passifs confortables tout en finançant la puissance de nos machines</p>
+    </div>
+
+    <div class="vortex-grid-2">
+      
+      <div class="vortex-jungle-card">
+        <div class="vortex-card-top">
+          <img src="https://imagedelivery.net/J903SH9YObde-XXkbrggNQ/b0ed8585-5ac4-4f2d-2286-4ddd47438c00/public" class="vortex-card-thumb" alt="Rang VIP">
+          <div class="vortex-name">Rang Chaman VIP</div>
+          <div class="vortex-price">14.99 €</div>
+        </div>
+        <ul class="vortex-list-features">
+          <li><b>Durée :</b> 30 jours</li>
+          <li><b>Points passifs :</b> 200 pts / 30 min</li>
+          <li><b>Dinos lvl 200</b> au <b>même prix</b> que les lvl 150</li>
+          <li>Accès aux kits VIP exclusifs (<code>/buykit vipbase</code>)</li>
+          <li>Rôle Discord <b>[VIP]</b> dédié</li>
+          <li>Synchronisé sur les 6 serveurs</li>
+        </ul>
+        <a href="/checkout/packages/add/7647168" target="_top" rel="noopener" class="vortex-btn-action">Devenir VIP</a>
+      </div>
+
+      <div class="vortex-jungle-card popular-card">
+        <div class="vortex-floating-badge gold-badge">💎 Statut Ultime</div>
+        <div class="vortex-card-top">
+          <img src="https://imagedelivery.net/J903SH9YObde-XXkbrggNQ/b0ed8585-5ac4-4f2d-2286-4ddd47438c00/public" class="vortex-card-thumb" alt="Rang Apex Premium">
+          <div class="vortex-name">Rang APEX PREMIUM</div>
+          <div class="vortex-price">29.99 €</div>
+        </div>
+        <ul class="vortex-list-features">
+          <li><b>Durée :</b> 30 jours</li>
+          <li><b>Points passifs :</b> 400 pts / 30 min</li>
+          <li><b>Dinos lvl 300</b> au <b>même prix</b> que les lvl 150</li>
+          <li>Accès à tous les kits Premium exclusifs</li>
+          <li>Rôle Discord <b>[VIP Premium]</b></li>
+          <li>Support ticket prioritaire 7j/7</li>
+          <li>Synchronisé sur les 6 serveurs</li>
+        </ul>
+        <a href="/checkout/packages/add/7649176" target="_top" rel="noopener" class="vortex-btn-action gold-btn">Devenir Apex</a>
+      </div>
+
+    </div>
+
+    <!-- SECTION 3 : ACCÈS SERVEURS -->
+    <div class="vortex-section-head" style="margin-top: 60px;">
+      <div class="vortex-sec-badge">CONNEXION RAPIDE</div>
+      <h2>🌐 Rejoindre le Cluster Vortex</h2>
+      <p>Nos serveurs sont ouverts 24/7 avec transferts fluides entre chaque carte</p>
+    </div>
+
+    <div class="vortex-server-box">
+      <div class="vortex-server-row">
+        <div class="vortex-srv-info">
+          <div class="vortex-srv-status"></div>
+          <div>
+            <div class="vortex-srv-name">The Island • Cluster Vortex x25</div>
+            <div class="vortex-srv-ip">51.91.165.44:27015</div>
+          </div>
+        </div>
+        <a href="steam://connect/51.91.165.44:27015" class="vortex-btn-connect">Se Connecter</a>
+      </div>
+
+      <div class="vortex-server-row">
+        <div class="vortex-srv-info">
+          <div class="vortex-srv-status"></div>
+          <div>
+            <div class="vortex-srv-name">Ragnarok • Cluster Vortex x25</div>
+            <div class="vortex-srv-ip">51.91.165.44:27016</div>
+          </div>
+        </div>
+        <a href="steam://connect/51.91.165.44:27016" class="vortex-btn-connect">Se Connecter</a>
+      </div>
+
+      <div class="vortex-server-row">
+        <div class="vortex-srv-info">
+          <div class="vortex-srv-status"></div>
+          <div>
+            <div class="vortex-srv-name">Aberration • Cluster Vortex x25</div>
+            <div class="vortex-srv-ip">51.91.165.44:27017</div>
+          </div>
+        </div>
+        <a href="steam://connect/51.91.165.44:27017" class="vortex-btn-connect">Se Connecter</a>
+      </div>
+
+      <div class="vortex-server-row">
+        <div class="vortex-srv-info">
+          <div class="vortex-srv-status"></div>
+          <div>
+            <div class="vortex-srv-name">Extinction • Cluster Vortex x25</div>
+            <div class="vortex-srv-ip">51.91.165.44:27018</div>
+          </div>
+        </div>
+        <a href="steam://connect/51.91.165.44:27018" class="vortex-btn-connect">Se Connecter</a>
+      </div>
+
+      <div class="vortex-server-row">
+        <div class="vortex-srv-info">
+          <div class="vortex-srv-status"></div>
+          <div>
+            <div class="vortex-srv-name">Fjordur • Cluster Vortex x25</div>
+            <div class="vortex-srv-ip">51.91.165.44:27019</div>
+          </div>
+        </div>
+        <a href="steam://connect/51.91.165.44:27019" class="vortex-btn-connect">Se Connecter</a>
+      </div>
+
+      <div class="vortex-server-row">
+        <div class="vortex-srv-info">
+          <div class="vortex-srv-status"></div>
+          <div>
+            <div class="vortex-srv-name">Genesis 2 • Cluster Vortex x25</div>
+            <div class="vortex-srv-ip">51.91.165.44:27020</div>
+          </div>
+        </div>
+        <a href="steam://connect/51.91.165.44:27020" class="vortex-btn-connect">Se Connecter</a>
+      </div>
+    </div>
+
+    <!-- SECTION 4 : FAQ -->
+    <div class="vortex-faq-grid">
+      <div class="vortex-faq-item">
+        <h4>⚡ Comment recevoir mes points ?</h4>
+        <p>Renseignez votre SteamID lors de la commande. Dès que vous êtes en jeu, tapez <code>/points</code> pour voir votre solde crédité.</p>
+      </div>
+      <div class="vortex-faq-item">
+        <h4>🌐 Mes achats sont-ils partagés ?</h4>
+        <p>Oui, notre base de données MySQL est synchronisée. Vos points et grades VIP vous suivent sur l'ensemble des 6 serveurs.</p>
+      </div>
+      <div class="vortex-faq-item">
+        <h4>🔒 Quels moyens de paiement sont acceptés ?</h4>
+        <p>Paiements 100% sécurisés via Tebex : Carte bancaire, Visa, Mastercard, Apple Pay et PayPal.</p>
+      </div>
+      <div class="vortex-faq-item">
+        <h4>💬 Besoin d'aide ou assistance ?</h4>
+        <p>Notre équipe répond 7j/7 sur Discord via notre système de tickets de support.</p>
+      </div>
+    </div>
+
+    <!-- BANDEAU DISCORD -->
+    <div class="vortex-discord-banner">
+      <div>
+        <h3>Rejoignez la communauté Vortex ARK</h3>
+        <p>Annonces de serveurs, événements PvP, giveaways et support d'assistance en direct.</p>
+      </div>
+      <a href="https://discord.gg/PzCvFjjRv5" target="_blank" class="vortex-btn-discord">Rejoindre notre Discord</a>
+    </div>
+
+  </div>
+</div>
+
+<style>
+  .vortex-jungle-page {
+    width: 100% !important;
+    padding: 10px 10px 60px 10px !important;
+    box-sizing: border-box !important;
+    background-color: #070d09 !important;
+    background-image: 
+      linear-gradient(rgba(7, 13, 9, 0.78), rgba(7, 13, 9, 0.90)),
+      url('https://imagedelivery.net/J903SH9YObde-XXkbrggNQ/fdf000db-900c-4e16-9195-58d998900000/public') !important;
+    background-size: cover !important;
+    background-position: center top !important;
+    background-repeat: no-repeat !important;
+    border-radius: 16px !important;
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif !important;
+    color: #e2e8f0 !important;
+  }
+
+  .vortex-wrap {
+    max-width: 1140px !important;
+    margin: 0 auto !important;
+  }
+
+  .vortex-hero-box {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    padding: 30px 10px 40px 10px !important;
+    position: relative !important;
+    gap: 15px !important;
+  }
+
+  .vortex-hero-dino {
+    width: 180px !important;
+    height: auto !important;
+    max-height: 200px !important;
+    object-fit: contain !important;
+    mix-blend-mode: screen !important;
+    opacity: 0.85 !important;
+    filter: drop-shadow(0 0 15px rgba(16, 185, 129, 0.4)) !important;
+    transition: transform 0.4s ease !important;
+    flex-shrink: 0 !important;
+  }
+
+  .vortex-hero-dino:hover {
+    transform: scale(1.08) !important;
+    opacity: 1 !important;
+  }
+
+  .vortex-hero-center {
+    text-align: center !important;
+    flex-grow: 1 !important;
+  }
+
+  @media (max-width: 900px) {
+    .vortex-hero-dino {
+      display: none !important;
+    }
+  }
+
+  .vortex-tag-pill {
+    display: inline-block !important;
+    background: rgba(16, 185, 129, 0.12) !important;
+    border: 1px solid rgba(16, 185, 129, 0.35) !important;
+    color: #10b981 !important;
+    padding: 5px 16px !important;
+    border-radius: 20px !important;
+    font-size: 0.78rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 1.5px !important;
+    margin-bottom: 12px !important;
+  }
+
+  .vortex-main-heading {
+    font-size: 2.1rem !important;
+    font-weight: 900 !important;
+    color: #ffffff !important;
+    letter-spacing: 1px !important;
+    margin: 0 0 10px 0 !important;
+    text-shadow: 0 0 20px rgba(16, 185, 129, 0.4) !important;
+  }
+
+  .vortex-main-desc {
+    max-width: 600px !important;
+    margin: 0 auto !important;
+    font-size: 0.98rem !important;
+    color: #94a3b8 !important;
+    line-height: 1.5 !important;
+  }
+
+  .vortex-section-head {
+    text-align: center !important;
+    margin-bottom: 28px !important;
+  }
+
+  .vortex-sec-badge {
+    font-size: 0.75rem !important;
+    font-weight: 800 !important;
+    color: #10b981 !important;
+    letter-spacing: 2px !important;
+    margin-bottom: 4px !important;
+  }
+
+  .vortex-section-head h2 {
+    font-size: 1.7rem !important;
+    font-weight: 800 !important;
+    color: #ffffff !important;
+    margin: 0 0 6px 0 !important;
+  }
+
+  .vortex-section-head p {
+    font-size: 0.92rem !important;
+    color: #94a3b8 !important;
+    margin: 0 !important;
+  }
+
+  .vortex-grid-4 {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)) !important;
+    gap: 16px !important;
+  }
+
+  .vortex-grid-2 {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)) !important;
+    gap: 20px !important;
+    max-width: 760px !important;
+    margin: 0 auto !important;
+  }
+
+  .vortex-jungle-card {
+    background: rgba(13, 23, 17, 0.88) !important;
+    border: 1px solid rgba(16, 185, 129, 0.22) !important;
+    border-radius: 14px !important;
+    padding: 22px 16px 18px 16px !important;
+    text-align: center !important;
+    position: relative !important;
+    backdrop-filter: blur(10px) !important;
+    transition: all 0.25s ease !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.45) !important;
+  }
+
+  .vortex-jungle-card:hover {
+    transform: translateY(-5px) !important;
+    border-color: #10b981 !important;
+    box-shadow: 0 12px 30px rgba(16, 185, 129, 0.25) !important;
+  }
+
+  .vortex-jungle-card.popular-card {
+    border: 1.5px solid #10b981 !important;
+    background: rgba(16, 30, 22, 0.94) !important;
+  }
+
+  .vortex-floating-badge {
+    position: absolute !important;
+    top: -11px !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    background: linear-gradient(90deg, #10b981, #059669) !important;
+    color: #ffffff !important;
+    padding: 3px 12px !important;
+    font-size: 0.68rem !important;
+    font-weight: 800 !important;
+    text-transform: uppercase !important;
+    border-radius: 15px !important;
+    letter-spacing: 0.8px !important;
+    white-space: nowrap !important;
+  }
+
+  .vortex-floating-badge.gold-badge {
+    background: linear-gradient(90deg, #f59e0b, #d97706) !important;
+  }
+
+  .vortex-card-thumb {
+    width: 68px !important;
+    height: 68px !important;
+    object-fit: contain !important;
+    margin: 0 auto 10px auto !important;
+    display: block !important;
+    filter: drop-shadow(0 0 12px rgba(16, 185, 129, 0.4)) !important;
+    transition: transform 0.3s ease !important;
+  }
+
+  .vortex-jungle-card:hover .vortex-card-thumb {
+    transform: scale(1.08) !important;
+  }
+
+  .vortex-name {
+    font-size: 1.2rem !important;
+    font-weight: 700 !important;
+    color: #ffffff !important;
+    margin-bottom: 4px !important;
+  }
+
+  .vortex-price {
+    font-size: 1.65rem !important;
+    font-weight: 900 !important;
+    color: #10b981 !important;
+    margin-bottom: 12px !important;
+  }
+
+  .vortex-list-features {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 0 16px 0 !important;
+    text-align: left !important;
+    font-size: 0.86rem !important;
+    color: #cbd5e1 !important;
+  }
+
+  .vortex-list-features li {
+    padding: 5px 0 !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.04) !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 7px !important;
+  }
+
+  .vortex-list-features li::before {
+    content: "•" !important;
+    color: #10b981 !important;
+    font-weight: bold !important;
+  }
+
+  .vortex-bonus-tag {
+    color: #34d399 !important;
+    font-weight: 700 !important;
+    font-size: 0.76rem !important;
+    background: rgba(16, 185, 129,.15) !important;
+    padding: 2px 6px !important;
+    border-radius: 4px !important;
+  }
+
+  .vortex-btn-action {
+    display: block !important;
+    width: 100% !important;
+    padding: 10px 0 !important;
+    background: #10b981 !important;
+    color: #070d09 !important;
+    font-weight: 800 !important;
+    font-size: 0.88rem !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.8px !important;
+    border-radius: 8px !important;
+    text-decoration: none !important;
+    transition: all 0.2s ease !important;
+    box-sizing: border-box !important;
+  }
+
+  .vortex-btn-action:hover {
+    background: #34d399 !important;
+    transform: scale(1.02) !important;
+  }
+
+  .vortex-btn-action.gold-btn {
+    background: #f59e0b !important;
+  }
+
+  .vortex-btn-action.gold-btn:hover {
+    background: #fbbf24 !important;
+  }
+
+  .vortex-server-box {
+    background: rgba(13, 23, 17, 0.85) !important;
+    border: 1px solid rgba(16, 185, 129, 0.2) !important;
+    border-radius: 14px !important;
+    padding: 15px 20px !important;
+    margin-bottom: 45px !important;
+  }
+
+  .vortex-server-row {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 12px 0 !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
+    flex-wrap: wrap !important;
+    gap: 10px !important;
+  }
+
+  .vortex-server-row:last-child {
+    border-bottom: none !important;
+  }
+
+  .vortex-srv-info {
+    display: flex !important;
+    align-items: center !important;
+    gap: 12px !important;
+  }
+
+  .vortex-srv-status {
+    width: 10px !important;
+    height: 10px !important;
+    background: #10b981 !important;
+    border-radius: 50% !important;
+    box-shadow: 0 0 8px #10b981 !important;
+  }
+
+  .vortex-srv-name {
+    font-weight: 700 !important;
+    color: #ffffff !important;
+    font-size: 0.95rem !important;
+  }
+
+  .vortex-srv-ip {
+    font-size: 0.82rem !important;
+    color: #94a3b8 !important;
+    font-family: monospace !important;
+  }
+
+  .vortex-btn-connect {
+    padding: 6px 16px !important;
+    background: rgba(16, 185, 129, 0.12) !important;
+    border: 1px solid rgba(16, 185, 129, 0.3) !important;
+    color: #10b981 !important;
+    border-radius: 6px !important;
+    font-size: 0.82rem !important;
+    font-weight: 700 !important;
+    text-decoration: none !important;
+    transition: all 0.2s !important;
+  }
+
+  .vortex-btn-connect:hover {
+    background: #10b981 !important;
+    color: #070d09 !important;
+  }
+
+  .vortex-faq-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)) !important;
+    gap: 16px !important;
+    margin-bottom: 45px !important;
+  }
+
+  .vortex-faq-item {
+    background: rgba(13, 23, 17, 0.7) !important;
+    border: 1px solid rgba(255, 255, 255, 0.06) !important;
+    border-radius: 12px !important;
+    padding: 16px !important;
+  }
+
+  .vortex-faq-item h4 {
+    color: #10b981 !important;
+    margin: 0 0 6px 0 !important;
+    font-size: 0.95rem !important;
+  }
+
+  .vortex-faq-item p {
+    color: #94a3b8 !important;
+    margin: 0 !important;
+    font-size: 0.82rem !important;
+    line-height: 1.45 !important;
+  }
+
+  .vortex-discord-banner {
+    background: linear-gradient(135deg, rgba(16, 26, 20, 0.9) 0%, rgba(10, 16, 12, 0.95) 100%) !important;
+    border: 1px solid rgba(16, 185, 129, 0.3) !important;
+    border-radius: 14px !important;
+    padding: 22px !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    gap: 16px !important;
+  }
+
+  .vortex-discord-banner h3 {
+    color: #ffffff !important;
+    margin: 0 0 4px 0 !important;
+    font-size: 1.2rem !important;
+  }
+
+  .vortex-discord-banner p {
+    color: #94a3b8 !important;
+    margin: 0 !important;
+    font-size: 0.88rem !important;
+  }
+
+  .vortex-btn-discord {
+    padding: 10px 22px !important;
+    background: #10b981 !important;
+    color: #070d09 !important;
+    font-weight: 800 !important;
+    border-radius: 8px !important;
+    text-decoration: none !important;
+    font-size: 0.88rem !important;
+    transition: all 0.2s !important;
+  }
+
+  .vortex-btn-discord:hover {
+    background: #34d399 !important;
+  }
+</style>
